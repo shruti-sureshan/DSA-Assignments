@@ -20,3 +20,9 @@
 18. Create a Priority Queue using classes and objects<br/>
 19. Create a BST using structures and Pointers<br/>
 20. Create a BST using classes and objects<br/>
+21. There is a singly linked list given to you. Find if the Loop exists in the Linked list or not and also find the point where the loop is happening if the loop is present.<br/>
+22. Reverse the Linked list using stack and also using recursion<br/>
+23. You are given a node pointer to the singly linked list, you need to delete that node value, such that you don’t have access to its parent node and also that node is not a tail node
+24. Merge two sorted singly linked list such that the final list is also sorted
+25. 
+26. 
