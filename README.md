@@ -30,7 +30,7 @@
 28. Perform BFS and DFS of BST<br/>
 29. Create Heap using Arrays and also Priority Queue<br/>
 30. Verify if a tree is symmetric around its center i.e: left subtree = right subtree at every node.<br/>
-31. Binary search<br/>
+31. Binary search algorithm<br/>
 32. Find the maximum element in an array which is increasing and then decreasing<br/>
 33. Maximum sum of k consecutive elements<br/>
 34. Quicksort<br/>
