@@ -39,7 +39,7 @@
 37. Given an array A of N integers. Rearrange the array in non-decreasing order.<br/>
 38. Given an array A of N integers, perform M operations on the array. Each of the M operations is of the form (i, j, k): from index i to j, increment all values by k. After M operations, produce the resultant array A<br/>
 39. Given starting and end time of N meetings. One meeting room can be used for only one meeting at a time. Find the minimum number of rooms required to accomodate all the meetings. Starting and end time of a meeting cannot be same.<br/>
-40. Ternany search<br/>
+40. Ternary Search<br/>
 41. There is an array Arr of size N, the problem is to find pairs (i, j) such that it satisfies the below inequality:-  (Arr[i] | Arr[j]) – (Arr[i] & Arr[j]) = (Arr[i] – Arr[j]); Where “|” denotes bitwise OR and “&” denotes bitwise AND operators.<br/>
 42. Jay and Veeru are trying to solve a problem. They have a lowercase english letter string. Jay is trying to take a multiple z small substring of the given string with x as start index and y as end index. He then tries to repeats each letter in the subsegment p times, where p is the index of the corresponding letter in the alphabet (a=1, b=2....., z=26). so if substring is "abc", Jay converts it to "abbccc". Veeru wants to know the length of the new string obtained by jay. Kindly help Veeru to find length of new string given by Jay<br/>
 43. N queens Problem<br/>
