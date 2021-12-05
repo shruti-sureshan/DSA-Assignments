@@ -30,10 +30,10 @@
 28. Perform BFS and DFS of BST<br/>
 29. Create Heap using Arrays and also Priority Queue<br/>
 30. Verify if a tree is symmetric around its center i.e: left subtree = right subtree at every node.<br/>
-31. Binary search algorithm<br/>
+31. Implement Binary search algorithm<br/>
 32. Find the maximum element in an array which is increasing and then decreasing<br/>
 33. Maximum sum of k consecutive elements<br/>
-34. Quicksort<br/>
+34. Implement Quicksort algorithm<br/>
 35. Rotate matrix by 90 degree in clockwise<br/>
 36. Matrix modify: Given an NXN matrix having binary values. For each 1 encountered, mark its whole row and column as 1.<br/>
 37. Given an array A of N integers. Rearrange the array in non-decreasing order.<br/>
